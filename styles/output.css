@@ -117,10 +117,21 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: var(--clr-stone-150);
   }
   .recipe {
     height: auto;
     width: 24rem;
+    border-radius: 1rem;
+    background-color: var(--clr-white);
+    margin-top: 5rem;
+  }
+  .recipe .recipe__image {
+    padding: 1rem;
+    border-radius: 1.5rem;
+  }
+  .attribution {
+    margin-bottom: 5rem;
   }
 }
 
