@@ -121,7 +121,7 @@
   }
   .recipe {
     height: auto;
-    width: 24rem;
+    width: 30rem;
     border-radius: 1rem;
     background-color: var(--clr-white);
     margin-top: 5rem;
